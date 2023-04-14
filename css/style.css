@@ -29,8 +29,9 @@ button{
     font-size: 12px;
     font-weight: 400;   
 }
-.button:hover{
-    background-color: ;
+button:hover{
+    background-color: #ff0000;
+    transition: 1.5s;
 }
 .image_with_info{
     display: flex;
