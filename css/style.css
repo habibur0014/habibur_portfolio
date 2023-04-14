@@ -27,7 +27,8 @@ button{
     border: none;
     border-radius: 8px;
     font-size: 12px;
-    font-weight: 400;   
+    font-weight: 400;
+    box-shadow: 3px 3px 3px 3px gray;
 }
 button:hover{
     background-color: #ff0000;
