@@ -1,0 +1,77 @@
+body{
+    background-color: white;
+}
+.header{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: green;
+}
+h2{
+    font-size: 35px;
+    font-weight: 600;
+    color: red;
+}
+p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #333;
+}
+button{
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 400;
+    
+}
+.image_with_info{
+    display: flex;
+    padding: 35px;
+}
+.Dhaka{
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    margin: 15px;
+}
+.Rajshahi{
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    margin: 15px;
+    background-color: rgba(115, 209, 131, 0.432);
+}
+.Khulna{
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    margin: 15px;
+}
+.Dhaka .Rajshahi .Khulna {
+    width: 25%;
+}
+img{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border-radius: 8px;
+}
+.map_section img{
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 400px;
+    width: 600px!important;
+    height: 400px!important;
+}
+h4{
+    text-align: center;
+}
