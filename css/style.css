@@ -22,13 +22,15 @@ p{
 button{
     width: 90px;
     height: 40px;
-    background-color: black;
+    background-color: #194272;
     color: white;
     border: none;
     border-radius: 8px;
     font-size: 12px;
-    font-weight: 400;
-    
+    font-weight: 400;   
+}
+.button:hover{
+    background-color: ;
 }
 .image_with_info{
     display: flex;
