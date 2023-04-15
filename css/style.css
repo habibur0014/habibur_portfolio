@@ -46,7 +46,7 @@ button:hover{
     margin: 15px;
 }
 .Dhaka:hover{
-    background-color: gray;
+    background-color: rgba(115, 209, 131, 0.432);
     transition: 1.5s;
 }
 .Rajshahi{
