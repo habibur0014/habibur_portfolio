@@ -49,6 +49,10 @@ button:hover{
     background-color: rgba(115, 209, 131, 0.432);
     transition: 1.5s;
 }
+.Khulna:hover{
+    background-color: rgba(115, 209, 131, 0.432);
+    transition: 1.5s;
+}
 .Rajshahi{
     border: 2px solid gray;
     border-radius: 10px;
